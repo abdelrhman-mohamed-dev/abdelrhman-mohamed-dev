@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently a student at computer science<br>i love websites so much<br>so now iam learning web development<br>and how to make great animations<br>
+Enthusiastic and self-motivated computer science student with a keen interest in learning and staying abreast of the latest technologies
 
 
 ## 🌐 Socials:
