@@ -7,7 +7,7 @@ Full Stack Developer
 Hey there! I’m Abdelrhman, a Full Stack Developer with an \*unhealthy\* obsession for AI. I sprinkle machine learning and LLMs into every project I touch ( yes, even the ones that probably don’t need it ). Whether it’s front-end magic or back-end wizardry, I’m all about making apps smarter, faster, and maybe just a little too self-aware!
 
 * 🌍  I'm based in Egypt
-* 🖥️  See my portfolio at [Magic Land](http://abdelrhman-cv.vercel.app/)
+* 🖥️  See my portfolio at [Magic Land](https://abdelrhman-mohamed.vercel.app/)
 * ✉️  You can contact me at [mohamedsaad81973@gmail.com](mailto:mohamedsaad81973@gmail.com)
 * 🧠  I'm learning Generative AI
 
